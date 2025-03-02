@@ -1,0 +1,31 @@
+                    Backup Creator
+
+NAME
+    ./Backup.sh - program to create backup file
+
+SYNOPSIS
+    ./Backup.sh [OPTION]...
+
+DESCRIPTION
+    Program that creates backup file(s) or folder with 
+    opportunity to save your backup at any direction on 
+    your PC.
+
+OPTION
+    Backup the OPTION(s) to standard output.
+
+    -h display this help and exit
+
+    -v output version information and exit
+
+AUTHOR
+    Written by Patryk Sawuk.
+
+REPORTING BUGS
+    Report any bugs to email <s193059@student.pg.edu.pl>
+
+COPYRIGHT
+    Copyright 2020 Free Software Foundation, Inc.   License GPLv3+: GNU
+
+SEE ALSO
+    My youtube <https://www.youtube.com/>
